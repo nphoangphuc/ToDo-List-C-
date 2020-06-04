@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\bin\Debug\netcoreapp3.1\toDoListOPP.exe
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\bin\Debug\netcoreapp3.1\toDoListOPP.deps.json
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\bin\Debug\netcoreapp3.1\toDoListOPP.runtimeconfig.json
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\bin\Debug\netcoreapp3.1\toDoListOPP.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\bin\Debug\netcoreapp3.1\toDoListOPP.dll
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\bin\Debug\netcoreapp3.1\toDoListOPP.pdb
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\obj\Debug\netcoreapp3.1\toDoListOPP.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\obj\Debug\netcoreapp3.1\toDoListOPP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\obj\Debug\netcoreapp3.1\toDoListOPP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\obj\Debug\netcoreapp3.1\toDoListOPP.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\obj\Debug\netcoreapp3.1\toDoListOPP.dll
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\obj\Debug\netcoreapp3.1\toDoListOPP.pdb
+C:\Users\ADMIN\source\repos\CsharpExercise\toDoListOPP\obj\Debug\netcoreapp3.1\toDoListOPP.genruntimeconfig.cache
